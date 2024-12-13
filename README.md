@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdalla Wahba</h1>
-<h3 align="center">A passionate Mathematicianc and a Junior Data Scientist.</h3>
+<h3 align="center">A passionate Mathematician and a Junior Data Scientist.</h3>
 
 - 🔭 I’m currently studying **Pure Mathematics and Computer Science at Ain Shams University**
 
